@@ -1,0 +1,2 @@
+Esto es el contenido del fichero, donde 
+se ejecuta un fichero de texto
